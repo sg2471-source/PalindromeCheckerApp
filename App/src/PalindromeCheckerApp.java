@@ -7,5 +7,5 @@ public class PalindromeCheckerApp {
 }
 
 
-//USECASE-2
+
 
